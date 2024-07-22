@@ -1,10 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    appDir: true,  // Ensure the app directory is enabled
-  },
-  output: 'export',
+  output: 'export', // For static export
   reactStrictMode: true,
+  // Add any other configurations you need here
 };
 
 export default nextConfig;
