@@ -1,15 +1,10 @@
-// next.config.mjs
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "/",
-  output: "export",
-  reactStrictMode: true,
-  images: {
-    unoptimized: true, // or configure as needed
-  },
   experimental: {
-    appDir: true, // Only if you need experimental features
+    appDir: true,  // Ensure the app directory is enabled
   },
+  output: 'export',
+  reactStrictMode: true,
 };
 
 export default nextConfig;
