@@ -37,9 +37,7 @@ const AboutPage = () => {
           </div>
           <div className="md:w-6/12 px-6 py-6 bg-white bg-opacity-40 items-center justify-center rounded-t-xl order-1 md:order-2 md:rounded-r-xl md:rounded-tl-none font-mono">
             <h1 className="font-mono text-xl text-center">Interests</h1>
-            <p>
-              After leaving school I became an apprentice chef, completing my qualifications at Bournemouth & Poole College. After a decade of experience in award winning restaurants,
-              I decided it was now or never to attempt to earn a degree. I graduated July 2024, attaining a First Class degree with Honours from Solent University.
+            <p> hi
             </p>
           </div>
         </div>
