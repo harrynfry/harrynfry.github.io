@@ -53,7 +53,7 @@ const AboutPage = () => {
           <div className="md:w-4/12 px-6 py-6 bg-white bg-opacity-40 items-center justify-center rounded-t-xl md:rounded-l-xl md:rounded-tr-none font-mono">
             <h1 className="font-mono text-xl text-center">My projects</h1>
             <p>
-              My projects have focused on how a user's experience can be improved when interacting with a UI or a service. I have conducted case studies into accessibility
+              My projects have focused on how a user&apos;s experience can be improved when interacting with a UI or a service. I have conducted case studies into accessibility
               for color blind users of touch screens and user training and retention when using AI tools. My dissertation focused on improving communication between local
               council announecements and constituent feedback. Currently, I am working on an app for my football team that will allow player statistics to be tracked, with features
               planned such as availability and team selection.
