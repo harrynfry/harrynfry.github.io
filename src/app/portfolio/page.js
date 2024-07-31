@@ -8,7 +8,7 @@ const PortfolioPage = () => {
                     Under construction... Check back to view my completed case studies and projects.
                 </p>
                 <p className="text-center text-xl">
-                    In the mean time, have a game of TicTacToe.
+                    In the meantime, have a game of TicTacToe.
                 </p>
             </div>
 
