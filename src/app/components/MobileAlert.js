@@ -24,7 +24,7 @@ const MobileAlert = () => {
 
   return (
     <div className="bg-grey text-black font-mono text-center py-2 z-50 border border-black bg-opacity-70">
-      <p>Fully compatible mobile version coming soon!</p>
+      <p className='px-2'>Full mobile version coming soon!</p>
     </div>
   );
 };
